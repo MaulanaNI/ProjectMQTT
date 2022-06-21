@@ -83,7 +83,7 @@
                             <?php if ($this->uri->segment(1) == 'temperature') {
                                 echo 'active';
                             } ?>">
-                                <i class="nav-icon fas fa-th"></i>
+                                <i class="nav-icon fa fa-thermometer-empty"></i>
                                 <p>Temperature</p>
                             </a>
                         </li>
